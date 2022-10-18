@@ -2,7 +2,7 @@ import React from 'react';
 
 function HeroSection() {
   return (
-    <div className="hero-section-container bg-red-200 h-1/2 w-screen flex flex-col  items-center p-5">
+    <div className="hero-section-container bg-red-200 h-64  flex flex-col  items-center ">
       <div className="hero-top h-1/2 w-full bg-green-200 flex justify-center ">
         <div className="inside flex  flex-row text-4xl font-medium   items-center ">
           Get access to wide range of handmade notes
